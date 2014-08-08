@@ -6,4 +6,8 @@ Proposed modes of operation:
 
 'Air 2-d': Fly up/down left/right to move, twist left/right to left/right click.
 
-'Air 3-d': 
+'Air 3-d': pop onto a plane to engage. twistie clicking. pull off the plane (or drop) to disengage.
+
+'FreeRoll': roll to move. twisty clicking? or bounce/pop clicking?
+
+Any can operate in absolute or relative mode.
